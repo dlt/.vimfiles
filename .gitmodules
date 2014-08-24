@@ -52,3 +52,19 @@
 [submodule "bundle/html5"]
 	path = bundle/html5
 	url = https://github.com/othree/html5.vim
+	
+[submodule "bundle/controlp.vim"]
+	path = bundle/controlp.vim
+	url = http://github.com/kien/controlp-vim.git
+[submodule "bundle/vim-clojure-static"]
+	path = bundle/vim-clojure-static
+	url = git://github.com/guns/vim-clojure-static.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
+[submodule "bundle/vim-fireplace"]
+	path = bundle/vim-fireplace
+	url = git://github.com/tpope/vim-fireplace.git
+[submodule "bundle/vim-leiningen"]
+	path = bundle/vim-leiningen
+	url = https://github.com/tpope/vim-leiningen.git
